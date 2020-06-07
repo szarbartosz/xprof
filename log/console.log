@@ -1,0 +1,66 @@
+2020-06-07 17:51:13.091 [info] <0.367.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2020-06-07 17:51:13.093 [info] <0.367.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2020-06-07 18:04:36.291 [info] <0.372.0>@xprof_tracer:trace:74 Tracing all
+2020-06-07 18:04:53.204 [info] <0.372.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version1'
+2020-06-07 18:04:53.212 [info] <0.372.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version1
+2020-06-07 18:05:46.730 [info] <0.385.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.'
+2020-06-07 18:05:47.680 [info] <0.386.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2020-06-07 18:05:47.680 [info] <0.386.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2020-06-07 18:05:50.931 [info] <0.386.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version1/0
+2020-06-07 18:05:50.931 [info] <0.386.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version1/0
+2020-06-07 18:08:08.161 [info] <0.368.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version1/1'
+2020-06-07 18:08:08.162 [info] <0.368.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version1/1
+2020-06-07 18:08:28.237 [info] <0.372.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version2/1'
+2020-06-07 18:08:28.238 [info] <0.372.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version2/1
+2020-06-07 18:10:41.238 [info] <0.394.0>@xprof_tracer:trace:74 Tracing all
+2020-06-07 18:10:51.072 [info] <0.397.0>@xprof_tracer:trace:74 Tracing all
+2020-06-07 18:11:00.083 [info] <0.399.0>@xprof_tracer:trace:74 Tracing all
+2020-06-07 18:11:15.988 [info] <0.400.0>@xprof_tracer:trace:74 Tracing pause
+2020-06-07 18:11:18.643 [info] <0.404.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version1/1
+2020-06-07 18:11:18.643 [info] <0.404.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version1/1
+2020-06-07 18:11:19.652 [info] <0.404.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version2/1
+2020-06-07 18:11:19.652 [info] <0.404.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version2/1
+2020-06-07 18:11:20.989 [info] <0.404.0>@xprof_tracer:trace:74 Tracing all
+2020-06-07 18:11:24.022 [info] <0.404.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version1/1'
+2020-06-07 18:11:24.022 [info] <0.404.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version1/1
+2020-06-07 18:11:27.601 [info] <0.404.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version2/1'
+2020-06-07 18:11:27.601 [info] <0.404.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version2/1
+2020-06-07 18:12:16.381 [info] <0.413.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version2/1
+2020-06-07 18:12:16.381 [info] <0.413.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version2/1
+2020-06-07 18:12:21.003 [info] <0.414.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version1/1
+2020-06-07 18:12:21.003 [info] <0.414.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version1/1
+2020-06-07 18:15:39.944 [info] <0.383.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2020-06-07 18:15:39.945 [info] <0.383.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2020-06-07 18:18:56.996 [info] <0.415.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':hello/0
+2020-06-07 18:18:56.996 [info] <0.415.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':hello/0
+2020-06-07 18:19:26.871 [info] <0.416.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2020-06-07 18:19:26.871 [info] <0.416.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2020-06-07 18:20:16.607 [info] <0.424.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.say_hello/0'
+2020-06-07 18:20:16.607 [info] <0.424.0>@xprof_tracer:monitor:39 Starting monitoring Hello.say_hello/0
+2020-06-07 18:21:32.544 [error] <0.427.0>@xprof_tracer_handler:record_results:273 Call 'xprof__Elixir.Hello_say_hello_0' took 60600.01 ms that is larger than the maximum that can be stored (30000 ms)
+2020-06-07 18:22:25.289 [info] <0.441.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':hello/0
+2020-06-07 18:22:25.289 [info] <0.441.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':hello/0
+2020-06-07 18:22:26.612 [info] <0.440.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':say_hello/0
+2020-06-07 18:22:26.612 [info] <0.440.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':say_hello/0
+2020-06-07 18:22:44.875 [info] <0.443.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version1/1'
+2020-06-07 18:22:44.875 [info] <0.443.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version1/1
+2020-06-07 18:22:57.301 [info] <0.447.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version2/1'
+2020-06-07 18:22:57.301 [info] <0.447.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version2/1
+2020-06-07 18:36:15.080 [info] <0.540.0>@xprof_tracer:trace:74 Tracing pause
+2020-06-07 18:36:19.442 [info] <0.546.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version2/1
+2020-06-07 18:36:19.442 [info] <0.546.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version2/1
+2020-06-07 18:36:20.765 [info] <0.546.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':version1/1
+2020-06-07 18:36:20.765 [info] <0.546.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':version1/1
+2020-06-07 18:40:53.788 [info] <0.373.0>@xprof_tracer:trace:74 Tracing all
+2020-06-07 18:41:03.216 [info] <0.373.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.hello/0'
+2020-06-07 18:41:03.218 [info] <0.373.0>@xprof_tracer:monitor:39 Starting monitoring Hello.hello/0
+2020-06-07 18:41:08.621 [info] <0.373.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.say_hello/0'
+2020-06-07 18:41:08.621 [info] <0.373.0>@xprof_tracer:monitor:39 Starting monitoring Hello.say_hello/0
+2020-06-07 18:42:32.083 [info] <0.388.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':hello/0
+2020-06-07 18:42:32.083 [info] <0.388.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':hello/0
+2020-06-07 18:42:33.544 [info] <0.388.0>@xprof_web_handler:handle_req:64 Stopping monitoring via web on 'Elixir.Hello':say_hello/0
+2020-06-07 18:42:33.544 [info] <0.388.0>@xprof_tracer:demonitor:56 Stopping monitoring 'Elixir.Hello':say_hello/0
+2020-06-07 18:42:46.789 [info] <0.390.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version1/1'
+2020-06-07 18:42:46.789 [info] <0.390.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version1/1
+2020-06-07 18:42:50.661 [info] <0.392.0>@xprof_web_handler:handle_req:47 Starting monitoring via web on 'Hello.version2/1'
+2020-06-07 18:42:50.661 [info] <0.392.0>@xprof_tracer:monitor:39 Starting monitoring Hello.version2/1
